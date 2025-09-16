@@ -1,0 +1,18 @@
+{
+  "name": "synternet-price-consumer-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "pubsub-js-synternet": "git+https://github.com/Synternet/pubsub-js.git"
+  }
+}
+
